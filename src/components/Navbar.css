@@ -1,0 +1,39 @@
+nav {
+  height: 20vh;
+}
+nav .flex {
+  display: flex;
+  align-items: center;
+  height: 20vh;
+}
+.logo {
+  flex-grow: 5.5;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+.logo-text {
+  border: 0.5px solid #1d1d1d;
+  width: 20%;
+  text-align: center;
+  height: 55px;
+  border-radius: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+  background: #f1edd527;
+}
+.buttons {
+  flex-grow: 1;
+}
+.google-btn {
+  margin: 0 20px 0 0;
+  background: #021d377e;
+}
+.github-btn {
+  background: #8080805d;
+}
+.btn {
+  width: 45%;
+  height: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+}

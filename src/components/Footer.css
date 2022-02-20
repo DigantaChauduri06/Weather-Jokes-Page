@@ -1,0 +1,23 @@
+.main-footer {
+  text-align: center;
+  height: 25vh;
+  position: relative;
+}
+.joke-btn {
+  margin-right: 10%;
+  font-family: "Roboto" sans-serif;
+}
+.footer-btn {
+  width: 20% !important;
+  position: absolute;
+  font-weight: 700;
+  top: 30%;
+  background: #5e3ed5;
+  cursor: pointer;
+}
+.joke-btn {
+  left: 20%;
+}
+.weather-btn {
+  left: 60%;
+}

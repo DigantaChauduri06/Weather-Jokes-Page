@@ -1,0 +1,25 @@
+.main {
+  display: block;
+  height: 50vh;
+  /* border: 1px solid black; */
+  box-shadow: 9px 10px 24px -9px rgba(0, 0, 0, 0.144);
+  -webkit-box-shadow: 9px 10px 24px -9px rgba(0, 0, 0, 0.158);
+  -moz-box-shadow: 9px 10px 24px -9px rgba(0, 0, 0, 0.185);
+}
+.primary-header {
+  text-align: center;
+  margin-top: 50px;
+  text-transform: uppercase;
+  word-spacing: 10px;
+  letter-spacing: 2.5px;
+  color: #f0109b;
+  text-shadow: 3px 3px 8px rgba(150, 150, 150, 1);
+}
+.primary-header > .block {
+  display: block;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+}
+.primary-sub2 {
+}
